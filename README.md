@@ -10,4 +10,4 @@ Open `index.html` in a browser.
 
 1. Push repository to GitHub.
 2. In repository settings, enable **Pages** from `main` branch root.
-3. Site URL will be: `https://roper8883.github.io/CRwebsite/`.
+3. Site URL will be: `https://roper8883.github.io/SparkysCapstoneReady/`.
